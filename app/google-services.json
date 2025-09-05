@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59476519156",
+    "project_id": "adgama-assessment-app",
+    "storage_bucket": "adgama-assessment-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59476519156:android:ba23b772eaf60f119d56a1",
+        "android_client_info": {
+          "package_name": "gupta.abhishek.adgamaassessmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZgIyvpgpw0nP6T3Zx7tMV6NNLRDjWyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
