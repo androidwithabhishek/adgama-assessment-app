@@ -20,6 +20,3 @@ ki﻿## App Screenshots
   <img src="app/src/main/java/gupta/abhishek/adgamaassessmentapp/rms/ad0.jpg" alt="ad0 (slot 7)" height="500" />
  <img src="app/src/main/java/gupta/abhishek/adgamaassessmentapp/rms/ad8.jpg" alt="ad8 (slot 9)" height="500" />
 </p>
-
-> All images are fixed to the same **height (200px)** so rectangular ones won’t break the row
-> alignment.  
